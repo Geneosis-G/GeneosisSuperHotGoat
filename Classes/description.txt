@@ -1,0 +1,22 @@
+Time moves only when you move
+
+Because some people prefer to take their time and enjoy the view :)
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Super Hot Goat: Time moves only when you move.
+
+[b]CHARACTERISTICS[/b]
+- When you are not moving, time is not completely stopped but enter ultra-slowmotion mode.
+
+[b]EASTER EGGS[/b]
+- [spoiler]For a more immersive experience, type the name of this mod (without space) on your keyboard ;)[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Using the default slowmotion key will temporarly break the ultra-slowmotion mode. Move again to fix it.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]As it's been a long time since the last mod I released, I decided to release this one now because it's certainly the smallest and the easiest I could do in my planned mods list :)
+So not much to say about this mod as it's simply a reproduction of the main game mechanic of the game called "Super Hot". There was several ways to do that: either using ultra-slowmotion or complete time freeze. Sadly the complete time freeze (that you can use in Time Master Goat) was causing problems for controllers with this mod, so I used the ultra-slomotion instead ^^
+[/quote]
